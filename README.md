@@ -1,1 +1,1 @@
-narek.one
+Landing page for narek.one
